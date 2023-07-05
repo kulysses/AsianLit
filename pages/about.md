@@ -24,6 +24,9 @@ Lastly, Filipinos are known for their intense pride for what is their own, espec
  Sources:
  
 •Abanto, Rowegie. "9 in 10 'Proud to be Filipino' - SWS Survey." ABS CBN News, 10 Feb. 2023, https://news.abs-cbn.com/spotlight/02/10/23/9-in-10-proud-to-be-pinoy-sws-survey.
+
 •Hilotin, Jay. "Philippines: Why is It Prone to Typhoons (on top of Earthquakes and Volcanic Eruptions)?" Gulf News, 4 Aug. 2022, https://gulfnews.com/world/asia/philippines/philippines-why-is-it-prone-to-typhoons-on-top-of-earthquakes-and-volcanic-eruptions-1.1659616588644.
+
 •Miller, Jack. "Religion in the Philippines." Asia Society, https://asiasociety.org/education/religion-philippines#:~:text=The%20Philippines%20proudly%20boasts%20to,well%20over%20100%20Protestant%20denominations. Accessed 5 Jul. 2023. 
+
 •"Southeast Asia." The Met Museum, https://www.metmuseum.org/toah/ht/10/sse.html#:~:text=By%20strengthening%20central%20authority%20over,and%20economies%20of%20the%20region. Accessed 5 Jul. 2023. 
