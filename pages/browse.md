@@ -8,4 +8,4 @@ permalink: /browse.html
 
 ## Featured Literature
 
-Here, I have included texts discussed in CL40 that I view salient to grasping and understanding the place of Filipinos in Asian identity. Kindly click each text to see my corresponding commentary on how such texts correlate to the Filipino experience.
+Here, I have included texts thoroughly discussed in CL40 that I perceived had aspects that are salient to grasping and understanding the current place in Asia—primarily in terms of our existing values and beliefs. Kindly click the cell of each text to see my corresponding commentary on how such they correlate to the Filipino identity.
