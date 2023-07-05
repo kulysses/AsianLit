@@ -20,7 +20,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: A Revisit: What Does It Mean Being a Filipino
+title: A Revisit to What It Means Being a Filipino
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: A Final Project in Completion of CL40
 # description appears in meta tags and other locations
@@ -34,7 +34,7 @@ author: Karl
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata
+metadata: asianlit
 
 ##########
 # Site/Organization Branding 
