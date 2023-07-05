@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="/objects/filipinos.jpg" %}
 
 ## How The Philippines is Situated in Asia
 
@@ -22,7 +22,7 @@ Secondly, being situated and subjected to calamities and internal pressures allo
 
 Lastly, Filipinos are known for their intense pride for what is their own, especially in the global stage; with the inclusion of beauty pageants, international singing contests, or famous award shows. In fact, it is noted that according to an SWS survey, 9 out of 10 Filipinos are “proud to be Filipino” (Abanto). Thus, this is also reflected in how we continue to propagate our traditional cultures and ideals despite the pressures of globalization and imperialism, which led to our propensity to favor everything foreign; perceivable are these biases from our everyday discourse in social media, for example that also tends to favor foreign media.
 
-All the aforementioned aspects are similarly reflected, one way or another, to the vast diversity of Asian cultures. Thus, the Philippines in its diversity constitutes its own unique identity in Asian identity. Having been developed and attached to values that are influenced and stood the test of time, the multi-faceted aspects of our experience are fully lived out and comparable to other manifestations of the Asian experience. We can perceive this through viewing the other section of the site, Literature. 
+All the aforementioned aspects are similarly reflected, one way or another, to the vast diversity of Asian cultures. Thus, the Philippines in its diversity constitutes its own unique identity in Asian identity. Having been developed and attached to values that are influenced and stood the test of time, the multifaceted aspects of our experience are fully lived out and comparable to other manifestations of the Asian experience. We can perceive this through viewing the other section of the site, Featured Literature. 
 
  Sources:
  
